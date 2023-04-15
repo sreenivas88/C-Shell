@@ -1,8 +1,7 @@
-# OSN Assignment 3
+# C shell
 
 Submitted by:
 Sreenivas B Papireddy
-2021111007
 
 
 ## Run the code :
@@ -11,7 +10,7 @@ Note: The makefile makes a ./exe which is the executable.
 
 > make
 
-- This will result in an executable with the name `exe`.
+- This will result in an executable with the name `main`.
 
 > ./exe
 
@@ -44,20 +43,29 @@ Note: The makefile makes a ./exe which is the executable.
         > no_child.txt    
     > exe.c
 ```
+#### features:
 
-## Utils:
+- basic features 
+    - showing current directory
+    - show run time of the foreground command
+    - cd
+    - ls (with -a -l -al -la)
+    - pwd
+    - echo
+    - history (gets restored on next run)
 
-have competed specfication 1 for redirection of input and output for commands from file and vis versa
+- System commands like sleeps, emacs, vim, ls, cat, etc. 
 
->supports ">" ">>" and "<"
+- Advanced features
+    - Auto Suggestion !!!!!!!!(😤)
+    - discover is a custom discover command which emulates the basics of the find command. The command should search for files in a directory hierarchy
+    - pinfo 
+    - redirection of input and output for commands from file and vis versa
+    - piping
+    - jobs, sig, bg, fg
+    - signal handling of Ctl + D , Ctl + Z , Ctl + C
+    - autocomplete tab is special char to activate it and will either give list if multiple options present or aut fills the line
 
->supports "|" along with input output redirection
-
->implemented jobs sig bg and fg
-
->singal handling of Ctl + D , Ctl + Z , Ctl + C
-
->autocomplete tab is sp[ecial char to activate it and will either give list if multiple options present or aut fills the line
 
 ---
 
