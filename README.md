@@ -1,8 +1,8 @@
 # OSN Assignment 3
 
-                                                        Submitted by:
-                                                        Sreenivas B Papireddy
-                                                        2021111007
+Submitted by:
+Sreenivas B Papireddy
+2021111007
 
 
 ## Run the code :
