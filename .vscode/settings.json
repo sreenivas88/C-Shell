@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "pwd.h": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "func_discover.h": "c",
+        "typeinfo": "c",
+        "func_process_maker.h": "c",
+        "wait.h": "c",
+        "display_jobs.h": "c",
+        "time.h": "c"
+    }
+}

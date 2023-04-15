@@ -1,0 +1,8 @@
+ README.md
+[0;32m a
+[0m[0;33m main
+[0m main.c
+ makefile
+ out.txt
+[0;32m specs
+[0m[0;32m storage

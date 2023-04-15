@@ -1,0 +1,12 @@
+f[0;33m a.out
+[0m[0;37m count.txt
+[0m[0;37m famp
+[0m[0;37m file.txt
+[0m[0;37m in.txt
+[0m[0;37m lines.txt
+[0m[0;37m out
+[0m[0;37m out.txt
+[0m[0;37m ouy
+[0m[0;37m rem.txt
+[0m[0;37m sample2.txt
+[0m[0;37m test.c

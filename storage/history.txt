@@ -1,0 +1,20 @@
+ls -la
+ls ls
+ls
+ls -la
+ls
+cd
+cd .
+cd ..
+cd -
+ls
+cd ..
+emacs
+emcams
+nano test
+ls
+rm test
+ls
+ls -la
+cd ..
+quit
